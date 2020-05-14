@@ -9,7 +9,7 @@
 <img width=100px src="https://raw.githubusercontent.com/nadehi18/social-templates/master/codecard-c++.png">
 
 ### All credits to [nadehi18](https://github.com/nadehi18) 
-### This is basically copy of his project (I only simplified it for PC) and I just think this design is good because coffee is related to programers :D
+### This is basically copy of his project (I only simplified it for PC) and I just think this design is cool because coffee is related to programers :D
 
 Simple C++ program to set an animated battery as desktop wallpaper. It's shows charging animation and changes according to battery percentage.
 
@@ -30,7 +30,7 @@ Simple C++ program to set an animated battery as desktop wallpaper. It's shows c
 
 ### Previews
 
-|0-20%|20-40%|40-60%|60-80%|80-100%|
+|First|Second|Thirt|Fourth|Fifth|
 |--|--|--|--|--|
 |![img](https://raw.githubusercontent.com/nadehi18/battery-wallpaper-windows/master/preview/20.png)|![img](https://raw.githubusercontent.com/nadehi18/battery-wallpaper-windows/master/preview/40.png)|![img](https://raw.githubusercontent.com/nadehi18/battery-wallpaper-windows/master/preview/60.png)|![img](https://raw.githubusercontent.com/nadehi18/battery-wallpaper-windows/master/preview/80.png)|![img](https://raw.githubusercontent.com/nadehi18/battery-wallpaper-windows/master/preview/100.png)|
 
