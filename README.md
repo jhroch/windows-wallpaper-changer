@@ -17,7 +17,7 @@ Simple C++ program to set an animated battery as desktop wallpaper. It's shows c
 
 ### How to install
 
-  1) Download the 
+  1) Download the [latest release](https://github.com/jhroch/windows-wallpaper-changer/releases)
         (Compiled for x86).  
         
   2) Extract wherever you would like.
