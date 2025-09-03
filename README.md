@@ -6,10 +6,11 @@
   <img src="https://img.shields.io/badge/Windows-Yes-blue?style=flat-square&logo=windows">  
 </p>
 
-<img width=100px src="https://raw.githubusercontent.com/nadehi18/social-templates/master/codecard-c++.png">
+<img width=500px src="https://s5.ezgif.com/tmp/ezgif-5f1be071dec344.gif">
 
 ### All credits to [nadehi18](https://github.com/nadehi18) 
-### This is basically copy of his project (I only simplified it for PC) and I just think this design is cool because coffee is related to programers :D
+### This project is a simplified adaptation of his project for PC.
+I really liked the design idea – coffee feels strongly connected to programmers, so I decided to create my own version with this theme.
 
 Simple C++ program to set an animated battery as desktop wallpaper. It's shows charging animation and changes according to battery percentage.
 
