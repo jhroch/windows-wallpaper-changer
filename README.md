@@ -32,5 +32,5 @@ Simple C++ program to set an animated battery as desktop wallpaper. It's shows c
 
 |First|Second|Thirt|Fourth|Fifth|
 |--|--|--|--|--|
-|![img](https://raw.githubusercontent.com/nadehi18/battery-wallpaper-windows/master/preview/20.png)|![img](https://raw.githubusercontent.com/nadehi18/battery-wallpaper-windows/master/preview/40.png)|![img](https://raw.githubusercontent.com/nadehi18/battery-wallpaper-windows/master/preview/60.png)|![img](https://raw.githubusercontent.com/nadehi18/battery-wallpaper-windows/master/preview/80.png)|![img](https://raw.githubusercontent.com/nadehi18/battery-wallpaper-windows/master/preview/100.png)|
+|![img](https://github.com/jhroch/windows-wallpaper-changer/blob/master/images/img_1.png)|![img](https://github.com/jhroch/windows-wallpaper-changer/blob/master/images/img_2.png)|![img](https://github.com/jhroch/windows-wallpaper-changer/blob/master/images/img_3.png)|![img](https://github.com/jhroch/windows-wallpaper-changer/blob/master/images/img_4.png)|![img](https://github.com/jhroch/windows-wallpaper-changer/blob/master/images/img_5.png)|
 
