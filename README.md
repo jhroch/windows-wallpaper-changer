@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Windows-Yes-blue?style=flat-square&logo=windows">  
 </p>
 
-<img width=500px src="https://s5.ezgif.com/tmp/ezgif-5f1be071dec344.gif">
+<img width=1px src="https://s5.ezgif.com/tmp/ezgif-5f1be071dec344.gif">
 
 ### All credits to [nadehi18](https://github.com/nadehi18) 
 ### This project is a simplified adaptation of his project for PC.
